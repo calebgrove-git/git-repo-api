@@ -1,0 +1,8 @@
+li {
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+}
+.hidden {
+  display: none;
+}
